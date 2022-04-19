@@ -6,7 +6,9 @@ Jeg har løst opgaven fra "Rasmus Dalgaards gruppe"
 
 2. Hvor langt du kom med den
 
-Jeg fik løst alle opgaver på nær spørgsmål 2 som der var fejl i. 
+Jeg fik løst alle opgaver på nær spørgsmål 2 som der var fejl i.
+
+Spørgsmål 3 havde jeg udfordringer med en sum function.
 
 Opgave 3 er blevet løst udfra aktier frem for daligvarer, da jeg oplevede en del problemer med nemligs hjemmeside, men ideen er den samme.
 
